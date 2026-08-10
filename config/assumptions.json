@@ -1,0 +1,12 @@
+{
+  "acquisition_cost_rub": 5000,
+  "subscription_fee_rub_month": 1000,
+  "service_cost_rub_month": 500,
+  "fixed_cost_rub_month": 5000000,
+  "current_active_clients": 100000,
+  "annual_balance_yield": 0.10,
+  "scenario_balance_min_rub": 0,
+  "scenario_balance_max_rub": 1000000,
+  "scenario_balance_step_rub": 25000,
+  "minimum_eligible_accounts": 500
+}
